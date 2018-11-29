@@ -6,4 +6,6 @@ Main script : app.R<br/>
 Note: Run the shiny app in browser
 
 
+![alt text](Pic1.png)
+
 
