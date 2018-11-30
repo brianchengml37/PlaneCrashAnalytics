@@ -5,6 +5,8 @@ Date: 29/11/2018<br/>
 Main script : app.R<br/>
 Note: Run the shiny app in browser
 
+App is hosted in shinyapp.io - https://brianhoibm.shinyapps.io/crash/<br/>
+
 Sample images<br/>
 Landing page : app.R<br/>
 ![alt text](Pic1.png)<br/>
